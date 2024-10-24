@@ -11,7 +11,7 @@ Domain: Web Development
 
 Duration:July to August 2024
 
-Mentor: Muzammil Ahmed
+Mentor: Harish Neelam
 
 Overview of the project
  project : Wheather Forecast App
